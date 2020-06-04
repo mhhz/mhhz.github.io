@@ -1,7 +1,7 @@
-SS&<td class="odd"><a href="(.*?)">(.*?)</a></td>
+<td class="odd"><a href="(.*?)">(.*?)</a></td>
     <td class="even"><a href="(.*?)" target="_blank">(.*?)</a></td>
     <td class="odd">(.*?)</td>
 	<td class="even">(.*?)</td>
     <td class="odd" align="center">(.*?)</td>
-    <td class="even" align="center">(.*?)</td>&
-ZJ&<dd><a href="(.*?)">(.*?)</a></dd>&
+    <td class="even" align="center">(.*?)</td>
+<dd><a href="(.*?)">(.*?)</a></dd>
