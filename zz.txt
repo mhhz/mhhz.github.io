@@ -5,3 +5,10 @@
     <td class="odd" align="center">(.*?)</td>
     <td class="even" align="center">(.*?)</td>
 <dd><a href="(.*?)">(.*?)</a></dd>
+
+<td class="odd"><a href=""></a></td>
+<td class="even"><a href="" target="_blank">
+<td class="odd">
+<td class="even">
+<td class="odd" align="center">
+<td class="even" align="center">
